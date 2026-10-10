@@ -1,0 +1,11 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+*.log
+opencore-*.txt
+config.plist.*
+*.zip
+*.tar.gz
+.env
+.env.*
